@@ -1,0 +1,19 @@
+#+TITLE: org-html-theme-lightsun
+
+An Org HTML export theme based on alphapapa's [[https://github.com/alphapapa/org-html-theme-darksun][org-html-theme-darksun]], which is itself based on Fabrice Niessen’s [[https://github.com/fniessen/org-html-themes][org-html-themes]] theme [[https://github.com/fniessen/org-html-themes][Bigblow]] and the solarized dark colorscheme.
+
+The fonts, colorscheme, and layout have been changed from ~org-html-theme-darksun~ to better suit my more vanilla taste. Works decently on mobile as well.
+
+* Usage
+** Local
+If you'd like to refer to the theme's files locally rather than on the Internet, you can use the ~theme-lightsun-local.setup~ SETUPFILE.
+** Remote
+The files for ~lightsun~ are hosted on my personal GitHub site ([[https://jakebox.github.io]]) for ease of access. To use those, include the ~theme-lightsun.setup~ SETUPFILE.
+
+* Credits
+See first line for credits. Links:
++ [[https://github.com/alphapapa][github/alphapapa]]
++ [[https://github.com/fniessen][github/fniesen]]
+
+* License
+GPLv3
